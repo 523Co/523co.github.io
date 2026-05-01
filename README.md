@@ -1,1 +1,1 @@
-# 523co.github.io.
+# 523co.github.io
