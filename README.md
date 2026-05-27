@@ -1,3 +1,2 @@
-# 523co.github.io
-# 523 Co
-Official Website for 523 Co.
+# 523co
+Official Website for 523co.
